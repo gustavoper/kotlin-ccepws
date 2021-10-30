@@ -16,3 +16,6 @@ Roadmap:
 
 - Testes unitários (JUnit/Wiremock)
 - Integração com DynamoDb, usando o `localstack`
+
+
+(OBS) Removido mvmn
